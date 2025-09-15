@@ -1,11 +1,11 @@
-Revert "update KIA"
+ate samsung"
 
-This reverts commit 16b0868837c6a1e3a1e92708169eeb8e7bc402b3.
+This reverts commit 2c5309b80d866f90cb755607ff39c032cde73ef4.
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
 #
 # On branch main
 # Changes to be committed:
-#	modified:   KIA.yaml
+#	modified:   SamSung.yaml
 #
